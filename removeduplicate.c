@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int removeDuplicates(int nums[], int numsSize) {
     if (numsSize == 0) {
         return 0;  
